@@ -28,6 +28,6 @@ Click apply and OK.
 
 # Some Notes
 
-1- Filters are nothing but "abstract folders", they don't do shit and make Microsoft Visual Studio pile up all your files in one folder making it extremely messy.
+1- Filters are nothing but "abstract folders", they don't do shit and make Microsoft Visual Studio pile up all your files in one folder making it extremely messy. <br>
 2- A solution can have multiple projects inside it, but this template only has one project inside it.
 
