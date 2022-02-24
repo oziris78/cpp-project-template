@@ -18,8 +18,8 @@ I followed this tutorial to create this template:
 6- Change these two settings to these: <br>
 | Option  | Will Be Changed To  |
 | ------------- | ------------- |
-| Output Directory  | $(SolutionDir)bin\$(Platform)\$(Configuration)\  |
-| Intermediate Directory  | $(SolutionDir)bin\intermediates\$(Platform)\$(Configuration)\  |
+| Output Directory  | `$(SolutionDir)bin\$(Platform)\$(Configuration)\`  |
+| Intermediate Directory  | `$(SolutionDir)bin\intermediates\$(Platform)\$(Configuration)\`  |
 
 Click apply and OK.
 
